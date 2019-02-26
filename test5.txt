@@ -1,13 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 5054-A2E0
-
- Directory of C:\Users\Rajesh\Desktop\Git Practice
-
-26-02-2019  17:11    <DIR>          .
-26-02-2019  17:11    <DIR>          ..
-25-02-2019  15:59                24 test2.txt
-26-02-2019  17:08               446 test3.txt
-25-02-2019  16:28                10 test4.txt
-26-02-2019  17:11                 0 test5.txt
-               4 File(s)            480 bytes
-               2 Dir(s)  101,112,840,192 bytes free
+ Hi
